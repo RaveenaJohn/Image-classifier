@@ -48,4 +48,3 @@ if upload is not None:
         else:
           st.write('Bean plant is healthy')
     
-   
